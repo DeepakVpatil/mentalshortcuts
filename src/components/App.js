@@ -10,7 +10,7 @@ class App extends Component{
         return (
             <div>
   
-                      <h2>Mental Shortcuts</h2>
+                      <h2>Welcome to DevOps Guru</h2>
                       <hr/>
                       <ShortcutList/>
                       <hr/>
